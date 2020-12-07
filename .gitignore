@@ -5,3 +5,6 @@ ICFHR_package*
 venv
 data
 math
+debug.log
+experiments
+figures
